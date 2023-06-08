@@ -22,10 +22,11 @@ Visual components and Python
 
 ## Program
 
-
+```
 DEVELOPED BY : P.Ramsai.
 REGISTER NO : 212221240041.
-
+```
+```
 
 arr_time=float(input("Enter the mean inter arrival time of objects from Feeder (in secs): "))
 ser_time1=float(input("Enter the mean  inter service time of Lathe Machine 1 (in secs) :  "))
@@ -66,7 +67,7 @@ else:
 print("----------------------------------------------------------------------")
 
 
-
+```
 ## Output
 ![output](https://github.com/RuchithaReddy28/Open-Jacson-Networks/blob/main/j2.png?raw=true)
 ## Result:
